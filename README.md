@@ -19,7 +19,7 @@ Capstone project, FEU Institute of Technology (BSIT – Web and Mobile Applicati
 
 | Mobile app | Web portal |
 | --- | --- |
-| [▶ Watch the mobile demo](https://drive.google.com/file/d/130kFuTqRmCryOpMieI_5F5AbhKYQRlFH/view?usp=sharing) | ▶ WEB_DEMO_LINK |
+| [▶ Watch the mobile demo](https://drive.google.com/file/d/130kFuTqRmCryOpMieI_5F5AbhKYQRlFH/view?usp=sharing) | [▶ Watch the web portal walkthrough](https://drive.google.com/file/d/1v3WyzRhiWbBoVrAqVYYy4KsTPmdBsmZ6/view?usp=sharing) |
 
 ## How it works
 
@@ -152,7 +152,7 @@ Three roles, each with its own portal and permissions.
 | Audio | Google Cloud Text-to-Speech |
 | Workflow | Git with protected `main`, `develop` and `feature/*` branches; every change merged through a pull request |
 
-## My role — Rome Gabriel Capuno (team lead)
+## My role — Rome Gabriel Capuno
 
 - **Model:** trained the YOLO11n detector on my RTX 5070 Ti, reaching 87.1% mAP@50 across 99 classes. The dataset of ~43,000 images was annotated by the whole team in Roboflow.
 - **Inference API:** wrote the FastAPI server that receives photos from the app, runs the model and logs each detection to Supabase.
@@ -165,11 +165,9 @@ Three roles, each with its own portal and permissions.
 | Name | Role | GitHub |
 | --- | --- | --- |
 | Rome Gabriel Capuno | Team lead · ML · backend · web | [@1ensh1](https://github.com/1ensh1) |
-| TEAMMATE_1 | ROLE | @HANDLE |
-| TEAMMATE_2 | ROLE | @HANDLE |
-| TEAMMATE_3 | ROLE | @HANDLE |
 
-Adviser: ADVISER_NAME, FEU Institute of Technology
+
+Adviser: John Benedic R. Enriquez, FEU Institute of Technology
 
 ---
 
